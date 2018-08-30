@@ -14,3 +14,6 @@ Rx==1.6.1
 singledispatch==3.4.0.3
 six==1.11.0
 typing==3.6.4
+Flask==0.11
+Jinja2==2.8
+gunicorn==19.6.0
